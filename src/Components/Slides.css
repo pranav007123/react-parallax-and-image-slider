@@ -1,0 +1,16 @@
+/* Custom styles for the slider dots */
+.slick-dots {
+    bottom: 20px; /* Adjust the position of the dots if needed */
+  }
+  
+  /* Custom styles for the inactive dots */
+  .slick-dots li button {
+    font-size: 10px; /* Adjust the size of the dots if needed */
+    color: #e5d9d9; /* Change the color of inactive dots */
+  }
+  
+  /* Custom styles for the active dot */
+  .slick-dots li.slick-active button {
+    color: #f6f5f5; /* Change the color of the active dot */
+  }
+  
